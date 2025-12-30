@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Daredevil: Season 1",
+    "type": "series",
+    "imdbId": "tt3322312",
+    "id": "marvel_tt3322312_1",
+    "releaseYear": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/k42lIJoY1bWTNUYERJIYjY4LXkb.jpg"
+  },
+  {
+    "title": "Daredevil: Season 2",
+    "type": "series",
+    "imdbId": "tt3322312",
+    "id": "marvel_tt3322312_2",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/opHoslNCxkgoCaGhfO66fvCSH83.jpg"
+  }
+]
